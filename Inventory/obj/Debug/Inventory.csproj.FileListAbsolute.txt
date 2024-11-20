@@ -1,0 +1,10 @@
+C:\Users\sarzo\source\repos\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\sarzo\source\repos\Inventory\bin\Debug\Inventory.exe
+C:\Users\sarzo\source\repos\Inventory\bin\Debug\Inventory.pdb
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.exe
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.pdb
+C:\Users\sarzo\source\repos\Inventory\obj\Debug\Inventory.frmAddProduct.resources
